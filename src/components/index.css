@@ -1,0 +1,12 @@
+.DeveloperCard {
+    min-width: 300px;
+    border: white solid 1px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+.Destaque {
+    font-size: 1.2em;
+    font-weight: bold;
+}
